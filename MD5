@@ -1,4 +1,4 @@
-6de25d93563d1fb5dfe61291eb7d74c0 *DESCRIPTION
+2a66bf005a9d0fb4e733799ef281daa2 *DESCRIPTION
 af4e6e9e884de019b8ab5e5299b97336 *INDEX
 7e37b02b1d06f575d3cb2ae9d59347c7 *NAMESPACE
 a6b30b5f6fb2c16bd3e5503042e6236d *R/TRSbook-Internal.R
@@ -43,4 +43,4 @@ b374df5ade8d1ef1c968a1ce7ad2104e *man/crosschart.Rd
 8434c5417f5233428fd57c226a08b223 *man/twosample.cor.test.Rd
 91ac5cf1ea3a112c2a710d10d43b292d *man/writeaddr.Rd
 a5d593fa6e36badccf49eef92988255f *src/adssub.c
-5e5895bd0124ac3c314cd971cc461d81 *src/getaddr.c
+3bde03587fcaab3532721aed1df4da0f *src/getaddr.c
