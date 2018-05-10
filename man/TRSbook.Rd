@@ -19,7 +19,7 @@ LazyLoad: \tab yes\cr
 }
 }
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
 }
 \references{Book: The R Software, Fundamentals of Programming and Statistical
   Analysis, Springer, 2014}

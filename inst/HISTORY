@@ -3,4 +3,9 @@
 
 Version 1.0 : First version of the package uploaded on the CRAN
 
+Version 1.0.2 :
+- DESCRIPTION: modified my email address
+- NAMESPACE: added a few importFrom() entries and a few S3method() entries; I also modified the useDynLib() entry
+- I added a file TRSbook_init.c
+
 

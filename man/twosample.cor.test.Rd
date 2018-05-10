@@ -28,7 +28,7 @@ Returns a list:
 Chapter 13 (Confidence Intervals and Hypothesis Testing) from the book:
 The R Software, Fundamentals of Programming and Statistical Analysis}
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
 }
 \examples{
 data(BMI.CHILD)

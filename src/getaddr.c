@@ -106,7 +106,7 @@ static R_CallMethodDef callMethods[] = {
         {"writeAtAddrInt", (DL_FUNC) &writeAtAddrInt, 2},
         {"printAddr", (DL_FUNC) &printAddr, 1},
         {NULL, NULL, 0}
-     };
+};
 
 void R_init_LeLogicielR(DllInfo *info) {
         R_registerRoutines(info, NULL, callMethods, NULL, NULL);

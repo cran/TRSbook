@@ -13,7 +13,7 @@ Chapter 10 (Basic Mathematics: Matrix Operations, Integration, and Optimization)
 Fundamentals of Programming and Statistical Analysis
 }
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
 }
 \examples{
 A <- matrix(c(2,3,5,4),nrow=2,ncol=2)

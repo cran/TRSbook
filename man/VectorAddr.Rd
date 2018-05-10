@@ -3,6 +3,11 @@
 \alias{print.VectorAddr}
 \alias{update.VectorAddr}
 \alias{Ops.VectorAddr}
+\alias{getAddrDbl}
+\alias{getAddrInt}
+\alias{printAddr}
+\alias{writeAtAddrDbl}
+\alias{writeAtAddrInt}
 \title{Address of vector}
 \description{Object representing an address of numeric vector}
 \usage{VectorAddr(x)}
@@ -15,7 +20,7 @@ Chapter 9 (Managing Sessions) from the book: The R Software,
 Fundamentals of Programming and Statistical Analysis
 }
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
 }
 \examples{
 \dontrun{

@@ -34,7 +34,7 @@ as low if the child weighs less than 2,500 g.
 }
 \source{\url{http://www.biostatisticien.eu/springeR/}}
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
 }
 \examples{
 data(BIRTH.WEIGHT)

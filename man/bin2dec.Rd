@@ -13,7 +13,7 @@
 Chapter 5 (Data Manipulation, Functions) from the book: The R Software,
 Fundamentals of Programming and Statistical Analysis}
 \author{
-Lafaye de Micheaux Pierre <lafaye@dms.umontreal.ca>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
+Lafaye de Micheaux Pierre <lafaye@unsw.edu.au>, Remy Drouilhet <Remy.Drouilhet@upmf-grenoble.fr>, Liquet Benoit <b.liquet@uq.edu.au>
 }
 \examples{
 bin2dec(1010.101)
